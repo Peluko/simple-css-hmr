@@ -474,5 +474,5 @@ ASALocalRun/
 *.binlog
 
 # Special directories for this project
-server-lib/
+# server-lib/
 dist/
